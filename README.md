@@ -4,14 +4,16 @@ This is my small server written in C++ for Windows using winsockets and threads
 
 its porpuse is to handle data from client to client and estabilish connection.
 
-how to build it? it has 2 choices
+# how to build it?
+
+it has 2 choices
 
 1.you paste all the code in visual studio and compile it
 
 2.use git clone repo from visual studio
 
 
-how to use?
+# how to use?
 
 1.enter ip address (you can use vpn like radmin or any other) that client shares too
 
